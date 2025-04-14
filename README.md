@@ -21,8 +21,8 @@
     <article>
         <h2>Photo Gallery</h2>
         <img src="https://placekitten.com/300/200" alt="A small gray kitten sitting on a windowsill">
-        <img src="https://placekitten.com/301/200" alt="A cat with green eyes lying on a carpet">
-        <img src="https://placekitten.com/302/200" alt="An orange cat looking out the window on a sunny day">
+        <img src="[https://placekitten.com/301/200](https://imgur.com/a/H5sdfpk)" alt="A cat with green eyes lying on a carpet">
+        <img src="[https://placekitten.com/302/200](https://imgur.com/a/Vg74yyN)" alt="An orange cat looking out the window on a sunny day">
     </article>
 
     <footer>
